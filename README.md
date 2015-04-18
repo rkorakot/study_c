@@ -7,3 +7,7 @@
 ### วันที่ 2 : แสดงผลออกทางหน้าจอด้วยฟังก์ชัน printf()
 
  * ex_printf.c
+
+### วันที่ 3 : Data Type, sizeof(), range
+ 
+ * datatype.c
