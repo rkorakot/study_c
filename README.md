@@ -21,3 +21,7 @@
 ### วันที่ 5 : scanf(), getchar()
  
  * play_input.c
+
+### วันที่ 6 : Expression and Operators
+ 
+ * operators.c
