@@ -25,3 +25,10 @@
 ### วันที่ 6 : Expression and Operators
  
  * operators.c
+
+### วันที่ 7 : if () , if () else , if () else if ()
+ 
+ * if0.c : if structure
+ * if1.c : if ()
+ * if2.c : if () else 
+ * if3.c : if () else if () else
