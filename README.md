@@ -32,3 +32,10 @@
  * if1.c : if ()
  * if2.c : if () else 
  * if3.c : if () else if () else
+
+### วันที่ 8 : switch()
+ * switch0.c : switch() structure
+ * switch1.c : switch() demo1 , ตัวอย่าง switch() อย่างง่าย รับแค่ integer
+ * switch2.c : switch() demo2 , ตัวอย่าง switch() เช็คค่า เลขคี่(odd) เลขคู่(even)
+ * switch3_1.c : switch() demo 3.1 , ตัวอย่าง ใช้ switch เลือก choice โดยเช็ค integer
+ * switch3_2.c : switch() demo 3.2 , ตัวอย่าง ใช้ switch เลือก choice โดยเช็ค char
